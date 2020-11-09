@@ -1,0 +1,20 @@
+1.a) create a new branch 'develop'
+1.b) edited a file README.txt
+1.c) git add README.txt
+1.d) git commit -m Xxx
+
+2.a) create a new2 branch 'test'
+2.b) edited a file README.txt
+2.c) git add README.txt
+2.d) git commit -m Yyyy
+
+3. git checkout develop
+4. git status
+5. git merge test
+6. vim README.txt
+7. git add README.tx
+8. git commit
+
+Final: git commit
+[develop 82ce12e] nhuff jerge branch 'test' into develop
+
